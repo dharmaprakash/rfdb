@@ -1,0 +1,3 @@
+# License can also be set via the XAP_LICENSE environment variable or com.gs.licensekey system property
+# For more information please visit https://www.gigaspaces.com
+Product=InsightEdge;Version=14.0;Type=ENTERPRISE;Customer=GigaSpaces_Technologies_-_Internal_dixson_huie_DEV;Expiration=2019-Oct-31;Hash=Sf0PYYhNNQYMOHUWNORO
